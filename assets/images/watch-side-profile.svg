@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Side profile of the Tide 2 showing the titanium case, screw-down crown and 11.6 millimetre thickness">
+<defs>
+<linearGradient id="ti" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#E3EDEA"/><stop offset="30%" stop-color="#9FB4B4"/>
+<stop offset="60%" stop-color="#D6E2DF"/><stop offset="100%" stop-color="#758D90"/>
+</linearGradient>
+<linearGradient id="glassEdge" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#CFE7E6"/><stop offset="100%" stop-color="#8FB6B8"/>
+</linearGradient>
+<linearGradient id="strapSide" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#1A4C57"/><stop offset="100%" stop-color="#0A242C"/>
+</linearGradient>
+</defs>
+<rect width="640" height="420" fill="none"/>
+<path d="M30 206 q60 -52 150 -54 v66 q-84 4 -150 42 z" fill="url(#strapSide)"/>
+<path d="M610 206 q-60 -52 -150 -54 v66 q84 4 150 42 z" fill="url(#strapSide)"/>
+<rect x="176" y="146" width="288" height="18" rx="9" fill="url(#glassEdge)"/>
+<rect x="170" y="162" width="300" height="70" rx="16" fill="url(#ti)" stroke="#6E8689" stroke-width="2"/>
+<rect x="186" y="232" width="268" height="26" rx="13" fill="#9FB4B4" stroke="#6E8689" stroke-width="2"/>
+<circle cx="320" cy="245" r="9" fill="#14606E"/>
+<rect x="462" y="182" width="34" height="30" rx="9" fill="url(#ti)" stroke="#6E8689" stroke-width="2"/>
+<g stroke="#7E9497" stroke-width="2" opacity="0.7">
+<path d="M466 188 v18"/><path d="M474 188 v18"/><path d="M482 188 v18"/><path d="M490 188 v18"/>
+</g>
+<rect x="144" y="176" width="28" height="22" rx="7" fill="#B6C7C6" stroke="#6E8689" stroke-width="2"/>
+<rect x="144" y="206" width="28" height="22" rx="7" fill="#B6C7C6" stroke="#6E8689" stroke-width="2"/>
+<g stroke="#1C7C8C" stroke-width="2" fill="none">
+<path d="M540 146 h46"/><path d="M540 258 h46"/><path d="M574 146 v112"/>
+<path d="M568 152 l6 -6 l6 6"/><path d="M568 252 l6 6 l6 -6"/>
+</g>
+<text x="592" y="208" fill="#1C7C8C" font-family="'IBM Plex Sans',Arial,sans-serif" font-size="20" font-weight="600">11.6</text>
+<text x="592" y="228" fill="#4E6B70" font-family="'IBM Plex Sans',Arial,sans-serif" font-size="14">mm</text>
+<ellipse cx="320" cy="300" rx="180" ry="16" fill="#0B2830" opacity="0.14"/>
+</svg>
